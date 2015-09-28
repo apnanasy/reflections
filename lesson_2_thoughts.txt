@@ -4,4 +4,8 @@ When you initialize a repository git does all of its necessary things so that it
 can start to track the files in the directory. without this git would be
 useless.
 
+how is the staging area different from the working directory and the repository?
+What value do you think it offers? 
 
+It is the middle man between the 2 things. It allows you to add everything 
+necessary to make a logical commit.
