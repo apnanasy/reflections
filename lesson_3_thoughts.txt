@@ -1,3 +1,11 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-There are very few times that you would want to keep your repository local. keeping it remote means you keep an automatic backup?
+There are very few times that you would want to keep your repository local. 
+keeping it remote means you keep an automatic backup.
+
+Why might you want to always pull changes manually rather than having git
+automatically stay up to date with your remote repository?
+
+If it is automatic then some code you are working on could be changed by someone
+else and mess your code up.
+
