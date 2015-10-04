@@ -9,3 +9,9 @@ automatically stay up to date with your remote repository?
 If it is automatic then some code you are working on could be changed by someone
 else and mess your code up.
 
+Describe the difference between forks, clones and branches. When would you use
+one instead of the other?
+
+forks are only used on github servers, clones do the same thing as forks except
+on your machine, and branches allow you to break up your work so your not
+always working on production code.
